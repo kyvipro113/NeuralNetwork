@@ -1,0 +1,30 @@
+﻿  train.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  setErrors.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\seterrors.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Neuron.cpp
+  NeuralNetwork.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.cpp(90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Matrix.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\matrix.cpp(59): warning C4102: 'std': unreferenced label
+  Math.cpp
+  main.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Layer.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\layer.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\layer.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\layer.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\layer.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  feedForward.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  backPropagation.cpp
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\neuralnetwork.h(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\backpropagation.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\marin_000\documents\visual studio 2015\projects\neuralnetwork\neuralnetwork\backpropagation.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NeuralNetwork.vcxproj -> C:\Users\marin_000\documents\visual studio 2015\Projects\NeuralNetwork\Debug\NeuralNetwork.exe
+  NeuralNetwork.vcxproj -> C:\Users\marin_000\documents\visual studio 2015\Projects\NeuralNetwork\Debug\NeuralNetwork.pdb (Partial PDB)
