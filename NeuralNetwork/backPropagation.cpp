@@ -36,7 +36,7 @@ void NeuralNetwork::backPropagation()
 
 	for (int r = 0; r < this->topology.at(indexOutputLayer - 1); r++)
 	{
-		for (int c = 0; this->topology.at(indexOutputLayer); c++)
+		for (int c = 0; c < this->topology.at(indexOutputLayer); c++)
 		{
 			double originalValue = this->weightMatrices.at(indexOutputLayer - 1)->getValue(r, c);
 			double deltaValue = deltaWeights->getValue(c, r);
