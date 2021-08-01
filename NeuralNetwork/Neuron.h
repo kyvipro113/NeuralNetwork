@@ -29,4 +29,4 @@ private:
 	int activationType = Sigmoid;
 };
 
-#endif // !LAYER_H
+#endif // !NEURON_H
